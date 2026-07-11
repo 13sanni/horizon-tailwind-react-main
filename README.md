@@ -1,5 +1,9 @@
 # ClientFlow CRM
 
+**Live Demo:** [https://client-flow-crm.vercel.app/](https://client-flow-crm.vercel.app/)
+- **Demo Login ID / Email:** `admin@clientflow.io`
+- **Demo Password:** `Password@123`
+
 ClientFlow is a modern, lightweight, and performant Customer Relationship Management (CRM) application. It is built using a modern decoupled architecture, combining a React/Vite frontend with a Node.js/Express backend, all powered by a PostgreSQL database via Prisma ORM.
 
 ## Tech Stack
